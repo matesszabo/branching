@@ -1,3 +1,17 @@
 # branching
-Ez egy branching példaprojekt lesz.
+Ez egy branching példaprojekt.
 Valamit hozzáírok.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Java ági módosítás.
